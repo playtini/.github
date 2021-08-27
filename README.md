@@ -8,17 +8,14 @@
 
 ## Management
 - [🔥 HOT] Delivery Manager #product
-- [🔥 HOT] Product Analyst #product #analyst
-- Project Manager IT #product
-- Head of Finance #finance
 
 # How it works?
-1. Send you CV to hr@playtini.ua or from form on [our website](https://playtini.ua/contacts)
-2. 30 min phone/online call
-3. Remote technical interview
-4. Visit our office for face to face meeting and interview
-5. Take offer
-6. Profit!
+1. 📩 Send your CV to hr@playtini.ua or from form on [our website](https://playtini.ua/contacts)
+2. 📞 30 min phone/online call
+3. 👨‍💻 Remote technical interview
+4. ☕ Visit our office for face to face meeting and interview
+5. 📝 Take offer
+6. 💰 Profit!
 
 # Links
 [Facebook](https://fb.com/playtini)
