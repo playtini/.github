@@ -1,3 +1,5 @@
+![Playtini](https://github.com/playtini/.github/raw/master/profile/playtini.png "Playtini")
+
 # We hire 🦄
 
 ## 🧑‍💻 Development & Testing
