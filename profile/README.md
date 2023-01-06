@@ -3,13 +3,11 @@
 # We hire 🦄
 
 ## 🧑‍💻 Development & Testing
-- [🔥 HOT] Senior QA Automation
-- Middle QA Specialist
-- [🔥 HOT] Senior DevOps Engineer
 - PHP Developers
+- Android/iOS Developers
 
 ## Management
-- [🔥 HOT] Delivery Manager #product
+- Tech Lead
 
 # How does it work?
 1. 📩 Send your CV to hr@playtini.ua or use form at [our website](https://playtini.ua/contacts)
