@@ -6,7 +6,7 @@
 - PHP Developers
 - Android/iOS Developers
 
-## Management
+## 🎩 Management
 - Tech Lead
 
 # How does it work?
